@@ -1,15 +1,18 @@
 export class Product {
     id: number;
-    name: string;
-    description: string;
+    title: string;
     price: number;
-    imageUrl: string;
+    description: string;
+    category: string;
+    image: string;
 
-    constructor(id: number, name: string, description =' ', price = 0, imageUrl='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqeuS_1ZPeKGL0PfeomD_vvU1kCZaAGcEePA&usqp=CAU' ){
+
+    constructor(id: number, title: string, price = 0, description: string, category: string, image='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqeuS_1ZPeKGL0PfeomD_vvU1kCZaAGcEePA&usqp=CAU' ){
         this.id=id;
-        this.name=name;
-        this.description=description;
+        this.title = title;
         this.price=price;
-        this.imageUrl=imageUrl;
+        this.description=description;
+        this.category=category;
+        this.image=image;
     }
 }

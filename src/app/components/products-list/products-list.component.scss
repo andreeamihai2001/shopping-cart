@@ -1,18 +1,13 @@
 .container{
-    margin-top: 200px;
+   // margin-top: 200px;
     width: 1200px;
     background-color: rgba(0, 0, 0, .4);
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
     padding: 20px;
+    border-radius: 2em;
 }
-// .card{
-//     margin-top: 200px;
-//     width: 200px;
-//     background-color: rgba(0, 0, 0, .4);
-//     -webkit-backdrop-filter: blur(10px);
-//     backdrop-filter: blur(10px);
-// }
+
 .productsrow{
      display: flex;
      align-items: center;
