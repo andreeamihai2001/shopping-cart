@@ -1,16 +1,33 @@
 
+<div class="card-top container-fluid">
+  <div class="container-top d-flex">
+    <div class="item">
+      <a (click)="filter('makeup')" >
+        <h6>Makeup</h6>
+      </a>
+    </div>
+    <div class="item">
+      <a (click)="filter('skincare')" >
+        <h6>Skincare</h6>
+      </a>
+    </div>
+    <div class="item">
+      <a (click)="filter('fragrance')" >
+        <h6>Fragrance</h6>
+      </a>
+    </div>
+    <div class="item">
+      <a (click)="filter('hair')" >
+        <h6>Hair</h6>
+      </a>
+    </div>
+  </div>
+</div>
 
 <div class="container">
-  
-   <div class="col">
-     
-      
       <div class="row">
-        <div class="col-md-4" *ngFor="let product of productList">
+        <div class="col-md-4" *ngFor="let product of filterCategory | filter: searchKey:'title'" >
           <app-product-item [productItem] = "product" ></app-product-item>
         </div>
       </div>
-
-
-    </div>
-  </div>
+  </div> 

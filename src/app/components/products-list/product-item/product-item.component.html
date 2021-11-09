@@ -7,7 +7,7 @@
       <p class="card-description">{{productItem.description}}</p>
       <div class="d-flex justify-content-between align-items-center">
         <div class="btn-group">
-          <button class="add-btn">Add to cart</button>
+          <button class="add-btn" (click) =addtoCart(productItem) >Add to cart</button>
           <button class="details-btn">View details</button>
         </div>
         <strong>{{productItem.price | currency:'EUR'}}</strong>
