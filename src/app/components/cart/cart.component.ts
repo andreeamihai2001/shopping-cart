@@ -10,7 +10,7 @@ import { CartService } from 'src/app/services/cart.service';
 export class CartComponent implements OnInit {
 
   public products : any = [];
-  public grandTotal : number = 0;
+  public grandTotal !: number;
   constructor(private cartService : CartService) { }
 
   ngOnInit(): void {
@@ -18,7 +18,7 @@ export class CartComponent implements OnInit {
     this.cartService.getProducts()
     .subscribe(res => {
       this.products = res;
-      this.grandTotal = this.cartService.getTotalPrice();
+      this.grandTotal = this.cartService.getFinalPrice();
     })
   }
 
@@ -28,10 +28,13 @@ export class CartComponent implements OnInit {
   emptyCart(){
     this.cartService.removeAllCart();
   }
-   incrementQty() {
-       this.cartService.addQuantity();
+   incrementQty(productItem: any) {
+       this.cartService.addQuantity(productItem);    
    } 
-   decrementQty() {
-     this.cartService.subQuantity();
+   decrementQty(productItem: any) {
+     this.cartService.subQuantity(productItem);
+   }
+   checkout(){
+    alert("Your order has been placed!");
    }
 }

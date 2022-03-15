@@ -1,16 +1,38 @@
 
   <div class="card mb-4">
-    <img class="bd-placeholder-img card-img-top " width= "100%"
-    [src]="productItem.image">
+
+    
+      <img class="bd-placeholder-img card-img-top " width= "100%"
+      [src]="productItem.image">
+      <!-- Badge overlay DIV -->
+      <ng-container *ngIf="productItem.category == 'fragrance' " >
+      <div class="badge-overlay">
+          <!-- Change Badge Position, Color, Text here-->
+          <span class="top-left badge orange">Sale 25% Off</span>
+      </div>
+      </ng-container>
+ 
     <div class="card-body">
-      <h5 class="card-title">{{productItem.title}}</h5>
+      <h6>{{productItem.brand}}</h6>
+      <h4 class="card-title">{{productItem.title}}</h4>
       <p class="card-description">{{productItem.description}}</p>
       <div class="d-flex justify-content-between align-items-center">
         <div class="btn-group">
           <button class="add-btn" (click) =addtoCart(productItem) >Add to cart</button>
-          <button class="details-btn">View details</button>
+          <button class="details-btn" (click)="onOpenDialogClick()">View details</button>
         </div>
-        <strong>{{productItem.price | currency:'EUR'}}</strong>
+      
+        <ng-container *ngIf="productItem.category != 'fragrance'" >
+          <strong>{{ productItem.price  | currency:'EUR' }}</strong>
+        </ng-container>
+
+        <ng-container *ngIf="productItem.category == 'fragrance'" >
+        <strong style="text-decoration: line-through;">{{ productItem.price  | currency:'EUR' }}</strong>
+      </ng-container>
+        
+        <ng-container *ngIf="productItem.category == 'fragrance' " >
+        <strong style="color: #b61010;">{{productItem.price - (25/100) * productItem.price  | currency:'EUR' }}</strong>
+      </ng-container>
       </div>
     </div>
   </div>

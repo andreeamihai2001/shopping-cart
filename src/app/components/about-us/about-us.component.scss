@@ -1,0 +1,45 @@
+.container{
+    margin: 180px 150px;
+    width: 80%;
+    background-color: rgba(0, 0, 0, .4);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    position: absolute; 
+}
+.card-empty-cart{
+    height: 60vh;
+    margin: 25px;
+    padding: 25px;
+    background-color: #ccd5b0;
+}
+.card-title{
+    position:relative;
+     font-weight: 700;
+     text-decoration: none;
+     font-size: 1.5em;   
+ }
+ p {
+   font-family:serif;
+   font-size: large;
+ }
+
+.footer-container{
+    margin-top: 900px;
+    background-color: rgb(80, 74, 74);
+    height: 100px;
+    color: blanchedalmond;
+}
+li{
+    margin-top: 20px;
+    display: flex;
+}
+ul{
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+}
+footer p{
+    font-size: 17px;
+    padding-left: 15px;
+}

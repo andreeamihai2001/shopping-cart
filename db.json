@@ -2,321 +2,354 @@
   "products": [
     {
       "id": 1,
-      "brand" : "FENTY BEAUTY by Rihanna",
+      "brand": "FENTY BEAUTY by Rihanna",
       "title": "Pro Filt’r Soft Matte Longwear Liquid Foundation",
       "price": 36,
       "description": " A soft matte, long-wear foundation with buildable, medium-to-full coverage, in a boundary-breaking range of 50 shades",
       "category": "makeup",
       "image": "https://www.sephora.com/productimages/sku/s1925205-main-zoom.jpg?imwidth=315"
-      
-  },
-  {
+    },
+    {
       "id": 2,
-      "brand" : "Natasha Denona",
+      "brand": "Natasha Denona",
       "title": "Retro Eyeshadow Palette",
       "price": 65,
       "description": "A midi-sized, must-have eyeshadow palette featuring 15 romantic burgundy and mauve shades combined with gray-browns, taupes, dusty roses, and vintage pinks. Perfect to create romantic, retro-inspired looks.",
       "category": "makeup",
       "image": "https://www.sephora.com/productimages/sku/s2486694-main-zoom.jpg?imwidth=612"
-    
-  },
-  {
+    },
+    {
       "id": 3,
-      "brand" : "Too Faced",
+      "brand": "Too Faced",
       "title": "Born This Way Foundation",
       "price": 40,
       "description": " An oil-free, long-wear, natural matte foundation that keeps you looking flawless for up to 24 hours.",
       "category": "makeup",
       "image": "https://www.sephora.com/productimages/sku/s2084648-main-zoom.jpg?imwidth=612"
-    
-  },
-  {
+    },
+    {
       "id": 4,
-      "brand" : "Anastasia Beverly Hills",
+      "brand": "Anastasia Beverly Hills",
       "title": "Norvina® Pro Pigment Palette Vol. 5",
       "price": 60,
       "description": "A professional-grade artistry palette featuring 25 deluxe-size, high-performance, high-pigment shades with a gorgeous lilac color story.",
       "category": "makeup",
       "image": "https://www.sephora.com/productimages/sku/s2473270-main-zoom.jpg?imwidth=1500"
-     
-  },
-  {
+    },
+    {
       "id": 5,
-      "brand" : "Rare Beauty by Selena Gomez",
+      "brand": "Rare Beauty by Selena Gomez",
       "title": "Perfect Strokes Universal Volumizing Mascara",
       "price": 20,
       "description": "A universal mascara with a unique eye-hugging brush to lift, lengthen, curl, and volumize every lash type for a lusher look.",
       "category": "makeup",
       "image": "https://www.sephora.com/productimages/sku/s2474138-main-zoom.jpg?imwidth=1500"
-     
-  },
-  {
+    },
+    {
       "id": 6,
-      "brand" : "Dior",
+      "brand": "Dior",
       "title": "Dior Addict Stellar Shine Lipstick",
       "price": 38,
       "description": "A next-generation lip shine that delivers up to eight hours of unparalleled shine, hydration, and sheer, vibrant color.",
       "category": "makeup",
       "image": "https://www.sephora.com/productimages/sku/s2208932-main-zoom.jpg?imwidth=612"
-      
-  },
-  {
+    },
+    {
       "id": 7,
-      "brand" : "Estée Lauder",
+      "brand": "Estée Lauder",
       "title": "Double Wear Stay-in-Place Foundation",
       "price": 43,
       "description": "A 24-hour liquid foundation with a flawless, natural, matte finish that unifies uneven skin tone and covers imperfections with buildable coverage.",
       "category": "makeup",
       "image": "https://www.sephora.com/productimages/sku/s2112167-main-zoom.jpg?imwidth=612"
-     
-  },
-  {
+    },
+    {
       "id": 8,
-      "brand" : "KVD Beauty",
+      "brand": "KVD Beauty",
       "title": "Tattoo Waterproof Liquid Eyeliner",
       "price": 22,
       "description": "An award-winning, waterproof liquid eyeliner with all-day wear and opaque pigment that creates ultra-precise lines inspired by tattoo artistry.",
       "category": "makeup",
       "image": "https://www.sephora.com/productimages/sku/s1177567-main-zoom.jpg?imwidth=612"
-     
-  },
-  {
+    },
+    {
       "id": 9,
-      "brand" : "FENTY BEAUTY by Rihanna",
+      "brand": "FENTY BEAUTY by Rihanna",
       "title": "Sun Stalk'r Instant Warmth Bronzer",
       "price": 30,
       "description": "A long-wear, transfer-resistant bronzing powder in a range of groundbreaking shades, each carefully curated to bring all skin tones to life.",
       "category": "makeup",
       "image": "https://www.sephora.com/productimages/sku/s2210995-main-zoom.jpg?imwidth=612"
-      
-  },
-  {
+    },
+    {
       "id": 10,
-      "brand" : "Youth To The People",
+      "brand": "Youth To The People",
       "title": "Superberry Hydrate + Glow Dream Mask with Vitamin C",
       "price": 48,
       "description": "An overnight mask that thoroughly hydrates, plumps, and brightens with THD ascorbate (vitamin C), antioxidant-rich superberries, squalane, and hyaluronic acid.",
       "category": "skincare",
       "image": "https://www.sephora.com/productimages/sku/s2180941-main-zoom.jpg?imwidth=612"
-     
-  },
-  {
+    },
+    {
       "id": 11,
-      "brand" : "Dr. Jart+",
+      "brand": "Dr. Jart+",
       "title": "Cryo Rubber™ Masks",
       "price": 14,
       "description": " A two-step, at-home kit designed to deliver active ingredients to ensure maximum skincare benefits.",
       "category": "skincare",
       "image": "https://www.sephora.com/productimages/sku/s2344596-main-zoom.jpg?imwidth=612"
-     
-  },
-  {
+    },
+    {
       "id": 12,
-      "brand" : "Tatcha",
+      "brand": "Tatcha",
       "title": "Indigo Overnight Repair Serum in Cream Treatment",
       "price": 88,
       "description": " A serum-in-moisturizer treatment that visibly calms irritation, strengthens skin’s barrier, and balances the microbiome for a healthy, hydrated glow.",
       "category": "skincare",
       "image": "https://www.sephora.com/productimages/sku/s2489755-main-zoom.jpg?imwidth=612"
-      
-  },
-  {
+    },
+    {
       "id": 13,
-      "brand" : "Glow Recipe",
+      "brand": "Glow Recipe",
       "title": "Watermelon Glow PHA +BHA Pore-Tight Toner",
       "price": 34,
       "description": " A bestselling, gentle PHA- and BHA-infused watermelon toner that hydrates skin and minimizes the appearance of pores.",
       "category": "skincare",
       "image": "https://www.sephora.com/productimages/sku/s2348431-main-zoom.jpg?imwidth=612"
-    
-  },
-  {
+    },
+    {
       "id": 14,
-      "brand" : "Marc Jacobs Fragrances",
+      "brand": "Marc Jacobs Fragrances",
       "title": "Daisy Dream",
       "price": 86,
       "description": "Light and airy, Daisy Dream captivates with its delectably fruity and floral personality. From the first hints of blackberry, fresh grapefruit, and succulent pear, Daisy Dream draws you in with her easy charm and an irresistibly feminine mix of jasmine flower, lychee, and blue wisteria. The fragrance lingers on the skin, drying down to a dreamy finish of white woods, musk, and an elusive hint of coconut water.",
       "category": "fragrance",
       "image": "https://www.sephora.com/productimages/sku/s1632751-main-zoom.jpg?imwidth=612"
-    
-  },
-  {
+    },
+    {
       "id": 15,
-      "brand" : "HERMÈS",
+      "brand": "HERMÈS",
       "title": "Elixir des Merveilles Eau de Parfum Spray",
       "price": 129,
       "description": "From surprise to magic and from magic to enchantment, Eau des Merveilles leads us by the nose on a dream cloud. A multi-faceted novel built on a woody amber accord that resonates right through to the top notes, it was created in 2004 by Ralph Schwieger and Nathalie Feisthauer and successfully rises to the challenge of being a sparkling fragrance for women with not a flower in sight.",
       "category": "fragrance",
       "image": "https://www.sephora.com/productimages/sku/s934844-main-zoom.jpg?imwidth=612"
-  },
-  {
+    },
+    {
       "id": 16,
-      "brand" : "Dior",
+      "brand": "Dior",
       "title": "J'adore Absolu",
       "price": 143,
       "description": " This sublime, intensely floral eau de parfum blends magnolia and rose absolutes with honeyed orange blossom. This Dior perfume for women pulses with the heady notes of blooming Grasse jasmine. It is harvested at the precise moment when, drenched in sunlight, the flower releases its most sensual accents.",
       "category": "fragrance",
       "image": "https://www.sephora.com/productimages/sku/s2150829-main-zoom.jpg?imwidth=612"
-     
-  },
-  {
+    },
+    {
       "id": 17,
-      "brand" : "BVLGARI",
+      "brand": "BVLGARI",
       "title": "Rose Goldea Blossom Delight",
       "price": 114,
       "description": "This fragrance was created as a tribute to femininity and is ever evolving to reveal new facets and depths of character. It is fresh like the renewed scents of spring, with dewy green notes that combine with sensual, rich floral white musks and a velvety rose heart to create a fragrance that every woman will love.",
       "category": "fragrance",
       "image": "https://www.sephora.com/productimages/product/p455017-av-05-zoom.jpg?imwidth=612"
-      
-  },
-  {
+    },
+    {
       "id": 18,
-      "brand" : "Carolina Herrera",
+      "brand": "Carolina Herrera",
       "title": "Good Girl Eau de Parfum",
       "price": 98,
       "description": "GOOD GIRL is a sensual, evocative fragrance born of the beautiful contradictions and the ever-present duality of modern women and modern life. Both freshly light and moodily dark, this innovative fragrance captures a woman’s wondrous complexity with surprising and exceptional ingredients. ",
       "category": "fragrance",
       "image": "https://www.sephora.com/productimages/sku/s1960707-main-zoom.jpg?imwidth=612"
-     
-  },
-  {
+    },
+    {
       "id": 19,
-      "brand" : "Dior",
+      "brand": "Dior",
       "title": "Sauvage Eau de Toilette",
       "price": 82,
       "description": "A radically fresh composition, Dior Sauvage is both raw and noble. Radiant top notes burst with the juicy freshness of Calabrian bergamot, while Amberwood unleashes a powerfully woody trail. Sauvage men's cologne is inspired by wide-open spaces, a white-hot desert landscape under a vast blue sky.",
       "category": "fragrance",
       "image": "https://www.sephora.com/productimages/sku/s1739317-main-zoom.jpg?imwidth=612"
-      
-  },
-  {
+    },
+    {
       "id": 20,
-      "brand" : "Paco Rabanne",
+      "brand": "Paco Rabanne",
       "title": "1 Million Parfum",
       "price": 100,
       "description": "1 Million Parfum dares to push boundaries and plays with the senses with its duality of salty notes and sun-drenched leather. A fragrance with amber heat for an exacerbated sensuality—like skin touched by the sun—it’s addictive like gold. Like an emblem carved in metal, this fragrance is for those who dare to stand out amongst the millions: be excessive, be bold, and exaggerate just a little.",
       "category": "fragrance",
       "image": "https://www.sephora.com/productimages/sku/s2321644-main-zoom.jpg?imwidth=612"
-    
-  },
-  {
-    "id": 21,
-    "brand" : "Dior",
-    "title": "Sauvage Eau de Toilette",
-    "price": 82,
-    "description": "A radically fresh composition, Dior Sauvage is both raw and noble. Radiant top notes burst with the juicy freshness of Calabrian bergamot, while Amberwood unleashes a powerfully woody trail. Sauvage men's cologne is inspired by wide-open spaces, a white-hot desert landscape under a vast blue sky.",
-    "category": "fragrance",
-    "image": "https://www.sephora.com/productimages/sku/s1739317-main-zoom.jpg?imwidth=612"
-    
-},
-{
-    "id": 22,
-    "brand" : "CHANEL",
-    "title": "BLEU DE CHANEL Eau de Parfum",
-    "price": 98,
-    "description": "Unexpected and undeniably bold. Fresh, clean, and profoundly sensual, the woody, aromatic fragrance reveals the spirit of a man who chooses his own destiny with independence and determination—a man who defies convention.",
-    "category": "fragrance",
-    "image": "https://www.sephora.com/productimages/sku/s1695972-main-zoom.jpg?imwidth=612"
-    
-},
-{
-    "id": 23,
-    "brand" : "Paco Rabanne",
-    "title": "Invictus Victory",
-    "price": 102,
-    "description": " Invictus Victory features a fresh boost of sharp lemon and powerful incense followed by full-bodied tonka bean and potent vanilla for perfectly matched freshness and intensity.",
-    "category": "fragrance",
-    "image": "https://www.sephora.com/productimages/sku/s2410645-main-zoom.jpg?imwidth=612"
-    
-},
-{
-    "id": 24,
-    "brand" : "Olaplex",
-    "title": "No. 4 Bond Maintenance™ Shampoo",
-    "price": 28,
-    "description": "This shampoo repairs and protects hair from everyday stresses—including damaged hair, split ends, and frizz—by re-linking broken bonds. No.4 is color-safe and proven to reduce breakage and strengthen all types of hair.",
-    "category": "hair",
-    "image": "https://www.sephora.com/productimages/sku/s2118867-main-zoom.jpg?imwidth=612"
-    
-},
-{
-    "id": 25,
-    "brand" : "Briogeo",
-    "title": "Don't Despair, Repair!™ Deep Conditioning Hair Mask",
-    "price": 38,
-    "description": "This mask has been clinically shown to boost hair strength, shine, and silkiness while improving the long-term health of damaged strands. Formulated with 97 percent naturally derived ingredients like rosehip oil, B vitamins, and algae extract, this antioxidant-rich formula restores essential hydration to dry, brittle, colored, and over-processed hair.",
-    "category": "hair",
-    "image": "https://www.sephora.com/productimages/sku/s1784636-main-zoom.jpg?imwidth=612"
-    
-},
-{
-    "id":26,
-    "brand" : "Living Proof",
-    "title": "Perfect hair Day (PhD) Advanced Clean Dry Shampoo",
-    "price": 30,
-    "description": "A dry shampoo that doesn’t just clean hair, it cares for it. Fast-absorbing powders soak up oil, sweat, and odor and then are removed with a powder-removal system. Conditioning agents refresh the scalp, balance sebum levels, and leave hair soft and shiny. The result? A freshly washed look and feel.",
-    "category": "hair",
-    "image": "https://www.sephora.com/productimages/sku/s2489771-main-zoom.jpg?imwidth=612"
-    
-},
-{
-    "id": 27,
-    "brand" : "Dyson",
-    "title": "Airwrap™ Styler",
-    "price": 549,
-    "description": "A styler that is engineered for multiple hair types and styles, featuring Coanda air styling and propelled by the Dyson digital motor so users can curl, wave, smooth, and dry with no extreme heat.",
-    "category": "hair",
-    "image": "https://www.sephora.com/productimages/sku/s2162493-main-zoom.jpg?imwidth=612"
-    
-},
-{
-    "id": 28,
-    "brand" : "Living Proof",
-    "title": "Fuller, Thicker Hair Transformation Set",
-    "price": 59,
-    "description": "Full Shampoo and Conditioner are a gentle yet powerful cleansing and nourishing duo that work together to help transform fine, flat hair to look, feel, and behave like naturally full, thick hair. The Scalp Revitalizing Treatment combats negative effects from environmental stressors for fuller-, thicker-, healthier-looking hair from the root. Full Thickening Cream is a lightweight styling cream with a hint of conditioning that creates long-lasting visible and touchable thickness and fullness.",
-    "category": "hair",
-    "image": "https://www.sephora.com/productimages/sku/s2492486-main-zoom.jpg?imwidth=612"
-    
-},
-{
-    "id": 29,
-    "brand" : "Moroccanoil",
-    "title": "Moroccanoil Treatment",
-    "price": 44,
-    "description": "The non-greasy and fast-absorbing formula is fragranced with the signature Moroccanoil scent, a blend of spicy amber and warm florals. Use before styling or as needed for quick conditioning or touch-ups. The fragrance smells like spicy amber, musk, and sweet florals, while the amber tint of the bottle protects the UV-sensitive formula.",
-    "category": "hair",
-    "image": "https://www.sephora.com/productimages/sku/s2030286-main-zoom.jpg?imwidth=612"
-    
-},
-{
-    "id": 30,
-    "brand" : "OUAI",
-    "title": "Fine Hair Conditioner",
-    "price": 28,
-    "description": "This do-it-all formula tackles the most common concerns for your hair type. OUAI‘s bottles and caps are fully recyclable and made with 20 percent post-consumer recycled materials. It‘s also scented with Mercer Street, a rose fragrance with notes of Italian lemon, jasmine, and white musk.",
-    "category": "hair",
-    "image": "https://www.sephora.com/productimages/sku/s2319846-main-zoom.jpg?imwidth=612"
-    
-}
-
-  ],
-
-  "posts": [
+    },
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "id": 21,
+      "brand": "Versace",
+      "title": "Eros",
+      "price": 92,
+      "description": " Love, passion, beauty, and desire are the key concepts behind the new men’s fragrance by Versace. As Greek mythology and classic sculpture have characterized the Versace world since the beginning, so the perfection of the male body is evoked with an allusion to Eros, the God of Love. Versace Eros is a fragrance for a strong, passionate man, who is master of himself.",
+      "category": "fragrance",
+      "image": "https://www.sephora.com/productimages/sku/s1513225-main-zoom.jpg?imwidth=612"
+    },
+    {
+      "id": 22,
+      "brand": "CHANEL",
+      "title": "BLEU DE CHANEL Eau de Parfum",
+      "price": 98,
+      "description": "Unexpected and undeniably bold. Fresh, clean, and profoundly sensual, the woody, aromatic fragrance reveals the spirit of a man who chooses his own destiny with independence and determination—a man who defies convention.",
+      "category": "fragrance",
+      "image": "https://www.sephora.com/productimages/sku/s1695972-main-zoom.jpg?imwidth=612"
+    },
+    {
+      "id": 23,
+      "brand": "Paco Rabanne",
+      "title": "Invictus Victory",
+      "price": 102,
+      "description": " Invictus Victory features a fresh boost of sharp lemon and powerful incense followed by full-bodied tonka bean and potent vanilla for perfectly matched freshness and intensity.",
+      "category": "fragrance",
+      "image": "https://www.sephora.com/productimages/sku/s2410645-main-zoom.jpg?imwidth=612"
+    },
+    {
+      "id": 24,
+      "brand": "Olaplex",
+      "title": "No. 4 Bond Maintenance™ Shampoo",
+      "price": 28,
+      "description": "This shampoo repairs and protects hair from everyday stresses—including damaged hair, split ends, and frizz—by re-linking broken bonds. No.4 is color-safe and proven to reduce breakage and strengthen all types of hair.",
+      "category": "hair",
+      "image": "https://www.sephora.com/productimages/sku/s2118867-main-zoom.jpg?imwidth=612"
+    },
+    {
+      "id": 25,
+      "brand": "Briogeo",
+      "title": "Don't Despair, Repair!™ Deep Conditioning Hair Mask",
+      "price": 38,
+      "description": "This mask has been clinically shown to boost hair strength, shine, and silkiness while improving the long-term health of damaged strands. Formulated with 97 percent naturally derived ingredients like rosehip oil, B vitamins, and algae extract, this antioxidant-rich formula restores essential hydration to dry, brittle, colored, and over-processed hair.",
+      "category": "hair",
+      "image": "https://www.sephora.com/productimages/sku/s1784636-main-zoom.jpg?imwidth=612"
+    },
+    {
+      "id": 26,
+      "brand": "Living Proof",
+      "title": "Perfect hair Day (PhD) Advanced Clean Dry Shampoo",
+      "price": 30,
+      "description": "A dry shampoo that doesn’t just clean hair, it cares for it. Fast-absorbing powders soak up oil, sweat, and odor and then are removed with a powder-removal system. Conditioning agents refresh the scalp, balance sebum levels, and leave hair soft and shiny. The result? A freshly washed look and feel.",
+      "category": "hair",
+      "image": "https://www.sephora.com/productimages/sku/s2489771-main-zoom.jpg?imwidth=612"
+    },
+    {
+      "id": 27,
+      "brand": "Dyson",
+      "title": "Airwrap™ Styler",
+      "price": 549,
+      "description": "A styler that is engineered for multiple hair types and styles, featuring Coanda air styling and propelled by the Dyson digital motor so users can curl, wave, smooth, and dry with no extreme heat.",
+      "category": "hair",
+      "image": "https://www.sephora.com/productimages/sku/s2162493-main-zoom.jpg?imwidth=612"
+    },
+    {
+      "id": 28,
+      "brand": "Living Proof",
+      "title": "Fuller, Thicker Hair Transformation Set",
+      "price": 59,
+      "description": "Full Shampoo and Conditioner are a gentle yet powerful cleansing and nourishing duo that work together to help transform fine, flat hair to look, feel, and behave like naturally full, thick hair. The Scalp Revitalizing Treatment combats negative effects from environmental stressors for fuller-, thicker-, healthier-looking hair from the root. Full Thickening Cream is a lightweight styling cream with a hint of conditioning that creates long-lasting visible and touchable thickness and fullness.",
+      "category": "hair",
+      "image": "https://www.sephora.com/productimages/sku/s2492486-main-zoom.jpg?imwidth=612"
+    },
+    {
+      "id": 29,
+      "brand": "Moroccanoil",
+      "title": "Moroccanoil Treatment",
+      "price": 44,
+      "description": "The non-greasy and fast-absorbing formula is fragranced with the signature Moroccanoil scent, a blend of spicy amber and warm florals. Use before styling or as needed for quick conditioning or touch-ups. The fragrance smells like spicy amber, musk, and sweet florals, while the amber tint of the bottle protects the UV-sensitive formula.",
+      "category": "hair",
+      "image": "https://www.sephora.com/productimages/sku/s2030286-main-zoom.jpg?imwidth=612"
+    },
+    {
+      "id": 30,
+      "brand": "OUAI",
+      "title": "Fine Hair Conditioner",
+      "price": 28,
+      "description": "This do-it-all formula tackles the most common concerns for your hair type. OUAI‘s bottles and caps are fully recyclable and made with 20 percent post-consumer recycled materials. It‘s also scented with Mercer Street, a rose fragrance with notes of Italian lemon, jasmine, and white musk.",
+      "category": "hair",
+      "image": "https://www.sephora.com/productimages/sku/s2319846-main-zoom.jpg?imwidth=612"
     }
   ],
-  "comments": [
+  "signup": [
+    {
+      "name": "Andreea",
+      "email": "andreea@",
+      "password": "parola1234",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "name": "Deni",
+      "email": "denisa@",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "name": "Andreea",
+      "email": "andreea_mihai",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "name": "ana",
+      "email": "ana@",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "name": "Andreea",
+      "email": "andreea_mihai@yahoo.com",
+      "password": "1234",
+      "id": 11
+    },
+    {
+      "name": "Andreea",
+      "email": "andreea.mihai@gmail.com",
+      "password": "1234",
+      "id": 12
+    }
+  ],
+  "signin": [
     {
       "id": 1,
       "body": "some comment",
       "postId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

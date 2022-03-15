@@ -10,6 +10,14 @@ import {HttpClientModule} from '@angular/common/http';
 import { CartComponent } from './components/cart/cart.component';
 import { FilterPipe } from './shared/filter.pipe';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { NoopAnimationsModule } from '@angular/platform-browser/animations';
+import {MatDialogModule} from '@angular/material/dialog';
+import { DialogComponent } from './components/products-list/dialog/dialog.component';
+import { AboutUsComponent } from './components/about-us/about-us.component';
+import { LoginSigninComponent } from './components/login-signin/login-signin.component';
+
+
+
 
 @NgModule({
   declarations: [
@@ -18,14 +26,19 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     ProductsListComponent,
     ProductItemComponent,
     CartComponent,
-    FilterPipe
+    FilterPipe,
+    DialogComponent,
+    AboutUsComponent,
+    LoginSigninComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    NoopAnimationsModule,
+    MatDialogModule
   ],
   providers: [],
   bootstrap: [AppComponent]

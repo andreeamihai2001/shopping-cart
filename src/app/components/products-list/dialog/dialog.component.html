@@ -1,0 +1,16 @@
+
+<div>
+    <h3>{{data.brd}}</h3>
+    <h5 style="text-decoration: underline;">{{data.ttl}}</h5>
+    <br>
+    <p>{{data.desc}}</p>
+    <br>
+
+    <ng-container *ngIf="data.cat == 'fragrance'">
+          <p style="font-weight: 500; margin-left: 85%; color: #b61010;">Price: {{data.prc - (25/100) * data.prc | currency: 'EUR'}}</p>
+    </ng-container>
+
+   <ng-container *ngIf="data.cat != 'fragrance'">
+          <p style="font-weight: 500; margin-left: 85%;">Price: {{data.prc | currency: 'EUR'}}</p>
+    </ng-container>
+</div>
